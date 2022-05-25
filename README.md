@@ -10,7 +10,7 @@
 <div  align="center">
 
 <a href="https://instagram.com/marcellimarcos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-070307?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-62964A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:cellyavila@hotmail.com"><img src="https://img.shields.io/badge/Gmail-62964A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/marcelli-marcos-2a0593237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-070307?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
