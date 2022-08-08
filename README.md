@@ -19,7 +19,8 @@
 <div align="center">
   
 <a href="https://github.com/marcellimarcos">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcellimarcos&text_color=62964A&bg_color=070307&title_color=fbfffa&border_radius=20"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcellimarcos&text_color=62964A&bg_color=070307&title_color=fbfffa&border_radius=20"/> 
+ <br/>
 
     
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
